@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "task": "Complete Python project",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "task": "Study Java",
+        "completed": false
+    }
+]
